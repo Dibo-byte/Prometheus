@@ -1,4 +1,5 @@
 # Prometheus
+Embedded Linux Custom Image built for Allwinner H3 processor.
 
 Prometheus é uma plataforma Linux embarcada projetada para aplicações de computação de borda e monitoramento. O sistema é construído utilizando o Yocto Project e tem como alvo o computador de placa única **Orange Pi PC**. Ele integra visão computacional, serviços web, sincronização de rede e interfaces gráficas em uma distribuição Linux personalizada, otimizada para implantação embarcada.
 
